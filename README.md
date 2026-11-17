@@ -2,7 +2,7 @@
 
 Service marketplace platform built for women, featuring dual-role authentication (**Cliente** & **Prestadora de Serviços**), provider discovery, quote requests, two-way direct contact links (WhatsApp & Instagram), and integrated real-time messaging built with **Angular**, **TypeScript**, **Tailwind CSS**, and **Supabase**.
 
-🔗 **[Live Demo](https://thamiresvs.github.io/elas-fazem-mvp/)**
+🔗 **[Live Demo](https://thamiresvs.github.io/angular-elas-fazem-mvp/)**
 
 ---
 
